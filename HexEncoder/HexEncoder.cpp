@@ -83,5 +83,7 @@ int main() {
         std::cout << "Я тебя не понимать" << std::endl;
     }
 
+    system("pause");
+
     return 0;
 }
